@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>iddahe_com_editor</id>
+<name>问答组合文章(双标题+问答+原创图)</name>
+<url>https://www.iddahe.com/zblog/90.html</url>
+<note>根据关键词自动搜集问答内容进行聚合文章，自动双标题、原创图片</note>
+<description>根据关键词自动搜集问答内容进行聚合文章，自动双标题、原创图片</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>一条大河</name>
+  <email>2307903507@qq.com</email>
+  <url>https://www.iddahe.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>162090</adapted>
+<version>1.2.5</version>
+<pubdate>2021-03-28</pubdate>
+<modified>2022-06-18</modified>
+<price>0</price>
+<phpver>7.2</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+  <sidebar6></sidebar6>
+  <sidebar7></sidebar7>
+  <sidebar8></sidebar8>
+  <sidebar9></sidebar9>
+</sidebars>
+</plugin>
